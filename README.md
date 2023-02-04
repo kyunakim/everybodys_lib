@@ -1,5 +1,5 @@
 - [모두의 도서관: 서울시 자치구별 문화프로그램 시행 현황 및 제언](#-------------------------------------)
-  * [1. 시작](#1---)
+  * [1. 들어가며](#1---)
   * [2. 분석 주제](#2------)
   * [3. 이용 데이터: (몇건인지도 추가하면 좋을듯)](#3-------------------------)
   * [4. 분석방법](#4-----)
@@ -17,7 +17,7 @@
 ## 모두의 도서관: 서울시 자치구별 문화프로그램 시행 현황 및 제언
 -[2022 데이터안심구역 활용 경진대회](https://youtu.be/4qty40r2EBo?t=2982) 우수상 수상- 
 
-### 1. 시작 
+### 1. 들어가며 
 👶<b>"도서관에는 왜 어린이들이 많을까?"</b>👶
 
 사소한 의문에서부터 시작한 도서관 문화프로그램 주제 찾기 프로젝트입니다. 
@@ -30,7 +30,7 @@
 
 <img width="368" alt="Screen Shot 2023-02-02 at 4 32 46 PM" src="https://user-images.githubusercontent.com/107484982/216260224-d9f7fd57-3b3c-4538-84ea-a0cff7df4eb0.png">
 
-문제는, 현재 시행되고 있는 문화프로그램의 주제와 대상이 다양하지 않다는 점입니다. 2022년 10월 기준, 서울시 전체 공공도서관에서 시행되는 문화프로그램의 절반이 미성년을 대상으로 합니다. 성인 대상 프로그램조차도 가족이나 육아를 주제로 하는 경우가 많습니다. 
+문제는 현재 시행되고 있는 문화프로그램의 주제와 대상이 다양하지 않다는 점입니다. 2022년 10월 기준 서울시 전체 공공도서관에서 시행되는 문화프로그램의 절반이 미성년을 대상으로 합니다. 성인 대상 프로그램조차도 가족이나 육아를 주제로 하는 경우가 많습니다. 공공도서관은 4년마다 발행되는 발전종합계획을 통해 장애인, 노인과 같은 정보불평등계층을 대상으로 서비스를 확대하고 지역사회 구성원과의 소통을 도모하고 있지만 문화프로그램 시행 대상으로는 어린이가 대부분을 차지해 아쉽습니다. 따라서, 문화프로그램 시행에 있어 어떤 부분을 개선시킬 수 있을지 고민해 보았습니다. 
 
 ### 2. 분석 주제 
 구체적으로, 우리의 질문은 다음과 같습니다. 
@@ -65,7 +65,7 @@
 ![image](https://user-images.githubusercontent.com/107484982/216503296-939ed93d-fbf9-4c72-b192-89c7c6a733d5.png)
 
 
-배경을 조사하는 과정에서 도서관 운영의 주요 애로사항은 사서인력의 한계라는 점을 알게 되었습니다. 이 때문에 훌륭한 아이디어가 제안되어도 일선 현장에서는 프로그램이 원활하게 기획 / 시행되기 어렵다고 합니다. 
+현재 도서관은 사서 인력이 만성적으로 부족하며 이 때문에 훌륭한 아이디어가 제안되어도 일선 현장에서는 프로그램이 원활하게 기획 / 시행되기 어렵다고 합니다. 국가와 지자체가 도서관에 대한 지원을 늘려 다양한 프로그램이 시행될 수 있는 환경을 만들었으면 좋겠습니다. 도서관이 시민 화합의 장으로 거듭나길 바랍니다! 
 
 <hr>
 
@@ -73,7 +73,7 @@
 
 |                            김영선                            |                            양주희                            |                           이명진                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src='https://avatars.githubusercontent.com/u/108660426?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/90437704?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/107484982?v=4' height=80 width=80px></img> |
+| <img src='https://avatars.githubusercontent.com/u/108660426?v=4' height=150 width=150px></img> | <img src='https://avatars.githubusercontent.com/u/90437704?v=4' height=150 width=150px></img> | <img src='https://avatars.githubusercontent.com/u/107484982?v=4' height=150 width=150px></img> |
 | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/kyunakim) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YANGJUHEE521) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/palesaltedcaramel) | 
 
 ### 프로젝트 타임라인 (날짜 업데이트 하기!)
