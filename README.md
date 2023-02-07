@@ -73,7 +73,7 @@
 
 |                            김영선                            |                            양주희                            |                           이명진                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src='https://avatars.githubusercontent.com/u/108660426?v=4' height=150 width=150px></img> | <img src='https://avatars.githubusercontent.com/u/90437704?v=4' height=150 width=150px></img> | <img src='https://avatars.githubusercontent.com/u/107484982?v=4' height=150 width=150px></img> |
+| <img src='https://avatars.githubusercontent.com/u/108660426?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/90437704?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/107484982?v=4' height=80 width=80px></img> |
 | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/kyunakim) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/YANGJUHEE521) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/palesaltedcaramel) | 
 
 ### 프로젝트 타임라인 (날짜 업데이트 하기!)
